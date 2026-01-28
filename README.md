@@ -42,3 +42,5 @@
 ```bash
 git clone [https://github.com/你的用户名/DeepSeek-Waifu-Flutter.git](https://github.com/你的用户名/DeepSeek-Waifu-Flutter.git)
 cd DeepSeek-Waifu-Flutter
+
+需要用户提前申请deepseek和minimax的api key+group ID，填入Edge_tts.dart和Chat_page.dart文档中去，我已在应该填的地方用“填入你的key”中做标注！
