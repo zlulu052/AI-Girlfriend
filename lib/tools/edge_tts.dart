@@ -13,7 +13,7 @@ class EdgeTtsService {
   final String _apiKey = "填入你的key";
 
   // ✅ Group ID
-  final String _groupId = "2013606000870826069";
+  final String _groupId = "填入你的group id";
 
   // 🔄 【关键修改】切换回标准接口 (解决 2013 报错)
   // 这个接口参数是扁平的，服务器绝对能认出来
